@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75A053B0-1B8B-46EE-88F2-E24149396784</string>
+	<key>IDESourceControlProjectName</key>
+	<string>2.0_Pointers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</key>
+		<string>https://github.com/Martin-Kotrulev/C</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>01.Intro/2.0_Pointers/2.0_Pointers.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Martin-Kotrulev/C</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
