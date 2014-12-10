@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BCB09E4-9CB0-4EFE-842A-474E1DD122A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>2.1_PassingStringToFunction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</key>
+		<string>https://github.com/Martin-Kotrulev/C</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>01.Intro/2.1_PassingStringToFunction/2.1_PassingStringToFunction.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Martin-Kotrulev/C</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58C4E3EBBDA46A4713D3B30D2048F4F44393C24F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
